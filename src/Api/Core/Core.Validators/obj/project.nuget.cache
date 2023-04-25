@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cHXIXEQYlo+nfhXlSj+d2CkpDXAkCt6WCLDAON2XCiRHB11smgsG3m5p7jg3E/J5IUrfqCCkmcwtL5OE5QRWMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\resid\\source\\repos\\MatcT\\src\\Api\\Core\\Core.Validators\\Core.Validators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\resid\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\resid\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\resid\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\resid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

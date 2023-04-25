@@ -1,0 +1,15 @@
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\bin\Debug\net7.0\Core.Validators.deps.json
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\bin\Debug\net7.0\Core.Validators.dll
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\bin\Debug\net7.0\Core.Validators.pdb
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\bin\Debug\net7.0\Common.ViewModel.dll
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\bin\Debug\net7.0\Common.ViewModel.pdb
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.AssemblyInfo.cs
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.csproj.CopyComplete
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.dll
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\refint\Core.Validators.dll
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\Core.Validators.pdb
+C:\Users\resid\source\repos\MatcT\src\Api\Core\Core.Validators\obj\Debug\net7.0\ref\Core.Validators.dll

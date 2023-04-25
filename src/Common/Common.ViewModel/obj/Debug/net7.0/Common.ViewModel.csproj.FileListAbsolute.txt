@@ -1,0 +1,12 @@
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\bin\Debug\net7.0\Common.ViewModel.deps.json
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\bin\Debug\net7.0\Common.ViewModel.dll
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\bin\Debug\net7.0\Common.ViewModel.pdb
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\Common.ViewModel.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\Common.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\Common.ViewModel.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\Common.ViewModel.AssemblyInfo.cs
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\Common.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\Common.ViewModel.dll
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\refint\Common.ViewModel.dll
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\Common.ViewModel.pdb
+C:\Users\resid\source\repos\MatcT\src\Common\Common.ViewModel\obj\Debug\net7.0\ref\Common.ViewModel.dll

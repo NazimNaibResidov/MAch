@@ -1,0 +1,2 @@
+C:\Users\resid\source\repos\MatcT\src\Api\WebApi\WebApi.Clinet\obj\Debug\WebApi.Clinet.esproj.SuggestedBindingRedirects.cache
+C:\Users\resid\source\repos\MatcT\src\Api\WebApi\WebApi.Clinet\obj\Debug\WebApi.Clinet.esproj.CoreCompileInputs.cache

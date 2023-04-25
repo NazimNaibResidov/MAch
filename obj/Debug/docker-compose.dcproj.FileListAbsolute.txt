@@ -1,0 +1,13 @@
+C:\Users\resid\source\repos\MatcT\bin\Debug\WebApi.Api.dll
+C:\Users\resid\source\repos\MatcT\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\resid\source\repos\MatcT\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\resid\source\repos\MatcT\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\resid\source\repos\MatcT\bin\Debug\WebApi.Api.pdb
+C:\Users\resid\source\repos\MatcT\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\resid\source\repos\MatcT\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\MatcT\bin\Debug\WebApi.Api.deps.json
+C:\Users\resid\source\repos\MatcT\bin\Debug\WebApi.Api.runtimeconfig.json
+C:\Users\resid\source\repos\MatcT\bin\Debug\appsettings.Development.json
+C:\Users\resid\source\repos\MatcT\bin\Debug\appsettings.json
+C:\Users\resid\source\repos\MatcT\bin\Debug\WebApi.Api.exe
+C:\Users\resid\source\repos\MatcT\obj\Debug\docker-compose.dcproj.CopyComplete
